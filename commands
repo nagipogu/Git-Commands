@@ -1,0 +1,24 @@
+3.git checkout staging
+4.git pull
+5.git checkout -b branch_name
+6.git add .
+7.git commit -m "commit_message" 
+8.git push -u origin your_branch_name
+
+npm install -g @angular/cli@latest
+npm cache clean –force
+
+npm install --save ng2-smart-table
+npm i rxjs-compat --save
+npm i ng2-completer –save
+
+
+Generating a new SSH key and adding it to the ssh-agent:
+https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#platform-windows
+https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+https://docs.joyent.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-windows
+
+
+
+Credential manager:
+Control Panel\All Control Panel Items\Credential Manager
